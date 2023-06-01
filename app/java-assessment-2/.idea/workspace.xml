@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb9f5dbb-053c-4873-8c7f-63586e4e1d1b" name="Changes" comment="Final refactor before ass#1 submission">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Eyeball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Eyeball.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Mz3O1oqnsIOHDHPUMz7MNpFrC4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.preview.features.used": "true",
+    "last_opened_file_path": "C:/Users/sammo/GitRepos/java-assessment-1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.TestCompletingGoals and 9 more">
+    <configuration name="TestCompletingGoals and 9 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-assessment-2" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="TestCompletingGoals" />
+        <pattern testClass="TestDiagonalMoves" />
+        <pattern testClass="TestDownMoves" />
+        <pattern testClass="TestGameHoldsEyeball" />
+        <pattern testClass="TestGameHoldsLevels" />
+        <pattern testClass="TestGameHoldsSquares" />
+        <pattern testClass="TestLeftMoves" />
+        <pattern testClass="TestLevelHoldsGoals" />
+        <pattern testClass="TestRightMoves" />
+        <pattern testClass="TestUpMoves" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDiagonalMoves" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-assessment-2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDiagonalMoves" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDownMoves" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-assessment-2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDownMoves" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLeftMoves" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-assessment-2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestLeftMoves" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRightMoves" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-assessment-2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRightMoves" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestCompletingGoals and 9 more" />
+        <item itemvalue="JUnit.TestDiagonalMoves" />
+        <item itemvalue="JUnit.TestRightMoves" />
+        <item itemvalue="JUnit.TestLeftMoves" />
+        <item itemvalue="JUnit.TestDownMoves" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb9f5dbb-053c-4873-8c7f-63586e4e1d1b" name="Changes" comment="" />
+      <created>1678756550134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678756550134</updated>
+      <workItem from="1680601839824" duration="2047000" />
+      <workItem from="1680637624422" duration="4219000" />
+    </task>
+    <task id="LOCAL-00001" summary="Inital files added">
+      <created>1678757080237</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678757080237</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Inital files added">
+      <created>1678757294492</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678757294492</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first 7 tests Pass">
+      <created>1678783451057</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678783451057</updated>
+    </task>
+    <task id="LOCAL-00004" summary="5/7 of the TestLevelHoldsGoals pass">
+      <created>1678855490276</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678855490276</updated>
+    </task>
+    <task id="LOCAL-00005" summary="4 sets of 7 tests complete, start test upmoves">
+      <created>1678922371741</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678922371741</updated>
+    </task>
+    <task id="LOCAL-00006" summary="need to re-think direction as each direction has 3 legal directions. think Rook from chess game">
+      <created>1678958095083</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678958095083</updated>
+    </task>
+    <task id="LOCAL-00007" summary="MoveUp tests nearly complete - 39 total">
+      <created>1679306684101</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679306684101</updated>
+    </task>
+    <task id="LOCAL-00008" summary="All Move tests done - 76 total">
+      <created>1679339501782</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679339501782</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inital files added" />
+    <MESSAGE value="first 7 tests Pass" />
+    <MESSAGE value="5/7 of the TestLevelHoldsGoals pass" />
+    <MESSAGE value="4 sets of 7 tests complete, start test upmoves" />
+    <MESSAGE value="need to re-think direction as each direction has 3 legal directions. think Rook from chess game" />
+    <MESSAGE value="MoveUp tests nearly complete - 39 total" />
+    <MESSAGE value="All Move tests done - 76 total" />
+    <MESSAGE value="All tests pass!" />
+    <MESSAGE value="Final refactor before ass#1 submission" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final refactor before ass#1 submission" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
